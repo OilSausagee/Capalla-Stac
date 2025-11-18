@@ -1,0 +1,70 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "CAPELLA_C09_SP_GEO_HH_20231203145646_20231203145720_preview",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          110.48232767138745,
+          21.195448815325054
+        ],
+        [
+          110.48204170642487,
+          21.277347153605056
+        ],
+        [
+          110.39485648515402,
+          21.277056510102536
+        ],
+        [
+          110.39519057847103,
+          21.195159395986334
+        ],
+        [
+          110.48232767138745,
+          21.195448815325054
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    110.39485648515402,
+    21.195159395986334,
+    110.48232767138745,
+    21.277347153605056
+  ],
+  "properties": {
+    "datetime": "2023-12-03T14:56:46Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "data": {
+      "href": "D:/Capalla_data/cog_files/CAPELLA_C09_SP_GEO_HH_20231203145646_20231203145720_preview.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "CAPELLA_C09_SP_GEO_HH_20231203145646_20231203145720_preview (GeoTIFF)",
+      "roles": [
+        "thumbnail"
+      ]
+    }
+  },
+  "collection": "capella-local-imagery"
+}
