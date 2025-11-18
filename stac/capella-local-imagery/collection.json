@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "capella-local-imagery",
   "stac_version": "1.1.0",
-  "description": "\u9019\u662f\u6211\u81ea\u5df1\u8490\u96c6\u7684 Capella \u672c\u5730\u885b\u661f\u5f71\u50cf",
+  "description": "Capella \u672c\u5730\u885b\u661f\u5f71\u50cf",
   "links": [
     {
       "rel": "root",

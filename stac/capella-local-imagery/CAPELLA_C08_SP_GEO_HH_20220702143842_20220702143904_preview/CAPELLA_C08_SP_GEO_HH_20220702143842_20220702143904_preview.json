@@ -58,7 +58,7 @@
   ],
   "assets": {
     "data": {
-      "href": "D:/Capalla_data/cog_files/CAPELLA_C08_SP_GEO_HH_20220702143842_20220702143904_preview.tif",
+      "href": "D:/Capalla_data/Capalla-Stac/tif_file/CAPELLA_C08_SP_GEO_HH_20220702143842_20220702143904_preview.tif",
       "type": "image/tiff; application=geotiff",
       "title": "CAPELLA_C08_SP_GEO_HH_20220702143842_20220702143904_preview (GeoTIFF)",
       "roles": [

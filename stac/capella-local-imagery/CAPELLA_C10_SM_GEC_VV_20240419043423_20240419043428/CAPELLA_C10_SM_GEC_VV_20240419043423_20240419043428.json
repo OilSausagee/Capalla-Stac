@@ -58,7 +58,7 @@
   ],
   "assets": {
     "data": {
-      "href": "D:/Capalla_data/cog_files/CAPELLA_C10_SM_GEC_VV_20240419043423_20240419043428.tif",
+      "href": "D:/Capalla_data/Capalla-Stac/tif_file/CAPELLA_C10_SM_GEC_VV_20240419043423_20240419043428.tif",
       "type": "image/tiff; application=geotiff",
       "title": "CAPELLA_C10_SM_GEC_VV_20240419043423_20240419043428 (GeoTIFF)",
       "roles": [
