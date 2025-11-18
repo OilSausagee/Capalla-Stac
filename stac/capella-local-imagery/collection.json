@@ -1,0 +1,149 @@
+{
+  "type": "Collection",
+  "id": "capella-local-imagery",
+  "stac_version": "1.1.0",
+  "description": "\u9019\u662f\u6211\u81ea\u5df1\u8490\u96c6\u7684 Capella \u672c\u5730\u885b\u661f\u5f71\u50cf",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C05_SP_GEC_HH_20211001184505_20211001184528/CAPELLA_C05_SP_GEC_HH_20211001184505_20211001184528.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C05_SP_GEO_HH_20211001184505_20211001184528/CAPELLA_C05_SP_GEO_HH_20211001184505_20211001184528.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C05_SP_GEO_HH_20211001184505_20211001184528_preview/CAPELLA_C05_SP_GEO_HH_20211001184505_20211001184528_preview.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C08_SP_GEO_HH_20220702143842_20220702143904_preview/CAPELLA_C08_SP_GEO_HH_20220702143842_20220702143904_preview.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C09_SP_GEC_HH_20231203145646_20231203145720/CAPELLA_C09_SP_GEC_HH_20231203145646_20231203145720.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C09_SP_GEC_HH_20240426014145_20240426014209/CAPELLA_C09_SP_GEC_HH_20240426014145_20240426014209.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C09_SP_GEO_HH_20231203145646_20231203145720/CAPELLA_C09_SP_GEO_HH_20231203145646_20231203145720.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C09_SP_GEO_HH_20231203145646_20231203145720_preview/CAPELLA_C09_SP_GEO_HH_20231203145646_20231203145720_preview.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C09_SP_GEO_HH_20240426014145_20240426014209/CAPELLA_C09_SP_GEO_HH_20240426014145_20240426014209.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C09_SP_GEO_HH_20240426014145_20240426014209_preview/CAPELLA_C09_SP_GEO_HH_20240426014145_20240426014209_preview.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C10_SM_GEC_HH_20240427005909_20240427005914/CAPELLA_C10_SM_GEC_HH_20240427005909_20240427005914.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C10_SM_GEC_VV_20240419043423_20240419043428/CAPELLA_C10_SM_GEC_VV_20240419043423_20240419043428.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C10_SM_GEO_HH_20240427005909_20240427005914/CAPELLA_C10_SM_GEO_HH_20240427005909_20240427005914.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C10_SM_GEO_HH_20240427005909_20240427005914_preview/CAPELLA_C10_SM_GEO_HH_20240427005909_20240427005914_preview.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C10_SM_GEO_VV_20240419043423_20240419043428/CAPELLA_C10_SM_GEO_VV_20240419043423_20240419043428.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C10_SM_GEO_VV_20240419043423_20240419043428_preview/CAPELLA_C10_SM_GEO_VV_20240419043423_20240419043428_preview.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C10_SP_GEC_HH_20240507211023_20240507211049/CAPELLA_C10_SP_GEC_HH_20240507211023_20240507211049.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C10_SP_GEO_HH_20240507211023_20240507211049/CAPELLA_C10_SP_GEO_HH_20240507211023_20240507211049.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C10_SP_GEO_HH_20240507211023_20240507211049_preview/CAPELLA_C10_SP_GEO_HH_20240507211023_20240507211049_preview.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C14_SP_GEC_HH_20240521163332_20240521163400/CAPELLA_C14_SP_GEC_HH_20240521163332_20240521163400.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C14_SP_GEO_HH_20240521163332_20240521163400/CAPELLA_C14_SP_GEO_HH_20240521163332_20240521163400.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./CAPELLA_C14_SP_GEO_HH_20240521163332_20240521163400_preview/CAPELLA_C14_SP_GEO_HH_20240521163332_20240521163400_preview.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          110.31647358657068,
+          21.10071782109863,
+          110.51325381072655,
+          21.2792618853164
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2021-10-01T18:45:05Z",
+          "2024-05-21T19:59:44Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

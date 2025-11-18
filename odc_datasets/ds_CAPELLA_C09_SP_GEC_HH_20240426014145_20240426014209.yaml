@@ -1,0 +1,45 @@
+crs: EPSG:4326
+geometry:
+  coordinates:
+  - - !!python/tuple
+      - 110.48276831867481
+      - 21.19506633157271
+    - !!python/tuple
+      - 110.48248050915323
+      - 21.277563352824842
+    - !!python/tuple
+      - 110.39454915101712
+      - 21.27727025390015
+    - !!python/tuple
+      - 110.3948858552977
+      - 21.19477447616295
+    - !!python/tuple
+      - 110.48276831867481
+      - 21.19506633157271
+  type: Polygon
+grids:
+  default:
+    crs: EPSG:4326
+    shape:
+    - 26088
+    - 26063
+    transform:
+    - 0.35
+    - 0.0
+    - 437192.28508386656
+    - 0.0
+    - -0.35
+    - 2352954.823012672
+id: 165f4581-0bda-41a8-9a8c-26c41540d608
+label: CAPELLA_C09_SP_GEC_HH_20240426014145_20240426014209
+lineage: {}
+location: file:///D:/Capalla_data/cog_files/CAPELLA_C09_SP_GEC_HH_20240426014145_20240426014209.tif
+measurements:
+  hh:
+    path: CAPELLA_C09_SP_GEC_HH_20240426014145_20240426014209.tif
+product:
+  name: capella_gec_hh
+properties:
+  capella:filename: CAPELLA_C09_SP_GEC_HH_20240426014145_20240426014209
+  datetime: '2024-04-26T04:25:06'
+  odc:processing_datetime: '2025-11-18T05:00:18.524527'
