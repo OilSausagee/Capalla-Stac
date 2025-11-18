@@ -1,0 +1,17 @@
+description: Capella GEC HH Polarization
+license: proprietary
+measurements:
+- dtype: float32
+  name: hh
+  nodata: 0.0
+  units: '1'
+metadata:
+  product:
+    name: capella_gec_hh
+metadata_type: eo3
+name: capella_gec_hh
+storage:
+  crs: EPSG:4326
+  resolution:
+    latitude: -0.0001
+    longitude: 0.0001

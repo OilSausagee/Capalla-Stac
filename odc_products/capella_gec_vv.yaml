@@ -1,0 +1,17 @@
+description: Capella GEC VV Polarization
+license: proprietary
+measurements:
+- dtype: float32
+  name: vv
+  nodata: 0.0
+  units: '1'
+metadata:
+  product:
+    name: capella_gec_vv
+metadata_type: eo3
+name: capella_gec_vv
+storage:
+  crs: EPSG:4326
+  resolution:
+    latitude: -0.0001
+    longitude: 0.0001
