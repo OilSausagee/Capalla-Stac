@@ -58,7 +58,7 @@
   ],
   "assets": {
     "data": {
-      "href": "D:/Capalla_data/cog_files/CAPELLA_C05_SP_GEC_HH_20211001184505_20211001184528.tif",
+      "href": "D:/Capalla_data/Capalla-Stac/tif_file/CAPELLA_C05_SP_GEC_HH_20211001184505_20211001184528.tif",
       "type": "image/tiff; application=geotiff",
       "title": "CAPELLA_C05_SP_GEC_HH_20211001184505_20211001184528 (GeoTIFF)",
       "roles": [
